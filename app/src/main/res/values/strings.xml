@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sqlite sample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="first_name">Primer Nombre</string>
+    <string name="last_name">Segundo Nombre</string>
+    <string name="email">Email</string>
+    <string name="add">Agregar</string>
+    <string name="edit">Editar</string>
+    <string name="address">Direccion</string>
+    <string name="phone_number">Numero Telefono</string>
+    <string name="website">Website</string>
+    <string name="company_name">Nombre Compania</string>
+    <string name="add_new_company">Agregar compañia</string>
+    <string name="all_companies">Todas las Compañias</string>
+    <string name="no_company_in_the_database_create_new_one_by_clicking_the_add_button_at_the_top_right">No hay compañias en registradas</string>
+    <string name="empty_fields_message">One or more fields are empty</string>
+    <string name="salary">Salary</string>
+    <string name="all_employees">All Employees</string>
+    <string name="no_employee_working_for_this_company_add_a_new_one_by_clicking_the_add_button_on_the_top_right">No hay empleados registrados</string>
+    <string name="add_new_employee">Agregar Empleados</string>
+    <string name="select_a_company">Selecciona compañia</string>
+    <string name="delete">Delete</string>
+    <string name="company_deleted_successfully">Compañia eliminado correctamente</string>
+    <string name="employee_deleted_successfully">Empleado eliminado correctamente</string>
+    <string name="company_created_successfully">Compañia agregada</string>
+    <string name="employee_created_successfully">Empleado agregado</string>
+    <string name="action_settings">Ajustes</string>
+</resources>
